@@ -1,0 +1,6 @@
+id,name,lastname,price,typePassenger,statusFlight
+1,Lou,Gonzalez,10000,FirstClass,Aterrizado
+2,Ulrike,Munoz,25000,FirstClass,Aterrizado
+3,Brade,Rojas,20000,FirstClass,En Horario
+4,Kimbell,Diaz,50000,FirstClass,Aterrizado
+5,Agustin,Sbernini,45000,FirstClass,Aterrizado
